@@ -45,6 +45,12 @@ The database schema consists of three tables:
 
 ## Pages
 
+
+### Home 
+
+The is the welcome page for the users 
+<img width="2839" height="1548" alt="image" src="https://github.com/user-attachments/assets/3a14252f-e95f-4576-b979-e633255d76b6" />
+
 ### Dashboard
 
 The dashboard is the main page of the application. It displays the following information:
@@ -55,11 +61,16 @@ The dashboard is the main page of the application. It displays the following inf
 - The user's top expense category.
 - A list of the user's recent transactions.
 - A breakdown of the user's expenses by category.
+<img width="2814" height="1541" alt="image" src="https://github.com/user-attachments/assets/db25188d-d5c4-47dd-b35b-444c7d9b651a" />
 
 ### Profile
 
 The profile page allows users to update their profile information and delete their account.
+<img width="2791" height="1541" alt="image" src="https://github.com/user-attachments/assets/4ca454c5-dfc8-4ae3-91a5-1bb082dee1c4" />
 
 ### Login/Register
 
 The login and register pages allow users to log in to their account or create a new one.
+<img width="2849" height="1536" alt="image" src="https://github.com/user-attachments/assets/a921fc21-e993-4589-8b0c-d55668244133" />
+<img width="2840" height="1524" alt="image" src="https://github.com/user-attachments/assets/db561f64-6248-4d1f-b884-b162323bb391" />
+
