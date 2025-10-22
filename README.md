@@ -1,6 +1,33 @@
-# Expense Tracker
+<div id="top">
 
-A simple expense tracker application built with Laravel.
+<!-- HEADER STYLE: CLASSIC -->
+<div align="center">
+
+
+# SMARTCAR-INTEGRATED-CAR-RENTAL-MANAGEMENT-SYSTEM
+
+<em>A simple expense tracker application built with Laravel.</em>
+
+<!-- BADGES -->
+<img src="https://img.shields.io/github/last-commit/muhanifakh/SmartCar-Integrated-Car-Rental-Management-System?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/muhanifakh/SmartCar-Integrated-Car-Rental-Management-System?style=flat&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/muhanifakh/SmartCar-Integrated-Car-Rental-Management-System?style=flat&color=0080ff" alt="repo-language-count">
+
+<em>Built with the tools and technologies:</em>
+
+<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white" alt="PHP">
+
+
+|    NRP     |      Name      |
+| :--------: | :------------: |
+| 5025231161 | Muhammad Rizqy Hidayat |
+| 5025231075 | Reino Yuris Kusumanegara |
+| 5025231082 | Muhammad Hanif Fakriansyah |
+| 5025231011 | Fazle Robby Pratama |
+
+</div>
+
+
 
 ## Features
 
