@@ -4,7 +4,7 @@
 <div align="center">
 
 
-# SMARTCAR-INTEGRATED-CAR-RENTAL-MANAGEMENT-SYSTEM
+# EXPENSE TRACKER 
 
 <em>A simple expense tracker application built with Laravel.</em>
 
