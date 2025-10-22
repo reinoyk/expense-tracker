@@ -20,10 +20,7 @@
 
 |    NRP     |      Name      |
 | :--------: | :------------: |
-| 5025231161 | Muhammad Rizqy Hidayat |
 | 5025231075 | Reino Yuris Kusumanegara |
-| 5025231082 | Muhammad Hanif Fakriansyah |
-| 5025231011 | Fazle Robby Pratama |
 
 </div>
 
